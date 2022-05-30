@@ -68,7 +68,7 @@ Stroke button is used to increase/decrease the size of the pen.
 
  ![](Images/editimage3.png)
  
-Filter button is used to add colourful backgrounds
+Filter button is used to add colourful backgrounds.I take a sample one which is blur filter. It looks like this-
 
  ![](Images/editimage4.png)
  
