@@ -58,7 +58,7 @@ It looks like this-----
 
 In this image I added choose file button to choose any image to the canvas.If i click on that it looks like this
 
-![](Images/editimage1.png)
+ ![](Images/editimage1.png)
 
 
 
