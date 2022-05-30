@@ -37,9 +37,10 @@
      faceTracker.start(videoInput.elt); ✨  
      
      
-   > Then I inserted filters based on facial landmarks . They look like this
+   > Then I inserted filters based on facial landmarks . They will look like this
 
      
   ![](Images/devilhorn.png)
 
    
+  ![](Images/birthdayparty.png)
