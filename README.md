@@ -25,5 +25,8 @@
    
    > In P5.js in preload() function LoadImage() loads all the image filters required for the face.
    > Clmtrackr detects the face landmarks in order to insert the filters at correct position.
-  ![](Images/clmtackr.png)
+
+
+![](Images/clmtackr.png)
+   
    
