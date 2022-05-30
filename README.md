@@ -55,3 +55,26 @@ It looks like this-----
 
 
 ![](Images/editimage.png)
+
+In this image I added choose file button to choose any image to the canvas.If i click on that it looks like this
+
+![](Images/editimage1.png)
+
+
+Edit button is used to sketh the image.
+
+![](Images/editimage2.png)
+
+Stroke button is used to increase/decrease the size of pen.
+
+![](Images/editimage3.png)
+
+Filter button is used to set colourful background to image.
+
+![](Images/editimage4.png)
+
+Rotate button is used to rotate the image.
+
+![](Images/editimage5.png)
+
+At last save button is used to save the edited image to the folder.
