@@ -44,3 +44,14 @@
 
    
   ![](Images/birthdayparty.png)
+  
+  >Like this using clmtrackr we can create any type of face filter.
+
+
+## Designing Project using css and style.css:
+
+  > I add some of the addtional features to project. For that I created another web page(edit image) to my project.
+It looks like this-----
+
+
+![](Images/editimage.png)
