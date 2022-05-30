@@ -78,5 +78,5 @@ Rotate button is used to rotate the image.
  
 At last when we click on save button the edited image automatically saved in folder.
 
-
+ ![](Images/savebutton.png)
 
