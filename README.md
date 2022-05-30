@@ -1,7 +1,7 @@
 # Face-Filter-using-Face-Recognition
   ✨ This is a Web-based Application which insert filters on face.
   
-  ## Web site Link -> https://geethikaaa.github.io/Face-Filters/
+  ## Web site Link -> https://geethikaaa.github.io/Face-Filter-using-Face-Recognition/
  ## Features:
     1. Inserting filters to face using face landmarks on home page.
     2. Taking snap of live webcam.
@@ -28,5 +28,19 @@
 
 
 ![](Images/clmtackr.png)
+
+
+   >Intialisation of tracker:
    
+    ✨ faceTracker = new clm.tracker();
+     faceTracker.init();                          // This intialisation automatically connects face tracker to vedio input.
+     faceTracker.start(videoInput.elt); ✨  
+     
+     
+   > Then I inserted filters based on facial landmarks . They look like this
+
+     
+     
+     ![](Images/devil horn.png)
+
    
