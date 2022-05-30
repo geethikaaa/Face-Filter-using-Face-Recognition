@@ -40,7 +40,6 @@
    > Then I inserted filters based on facial landmarks . They look like this
 
      
-     
-     ![](Images/devilhorn.png)
+    ![](Images/devilhorn.png)
 
    
