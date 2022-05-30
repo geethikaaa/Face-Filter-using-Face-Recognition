@@ -11,4 +11,4 @@
 
 ## Requirements:
 
-       [image](https://user-images.githubusercontent.com/92661524/170999752-1a147d8d-c2e7-44d2-a25c-05590681b0bf.png)
+      https://i.postimg.cc/PNnXndxP/Screenshot-2022-05-30-062142.png
