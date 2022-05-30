@@ -62,7 +62,7 @@ In this image I added choose file button to choose any image to the canvas.If i 
  
 Edit button is used to sketch the image.
 
-  ![](Images/editimage2.png)
+ ![](Images/editimage2.png)
  
 Stroke button is used to increase/decrease the size of the pen.
 
